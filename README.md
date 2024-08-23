@@ -17,6 +17,8 @@ I have High skills in mathematics and data analysis
 [![My Skills](https://skillicons.dev/icons?i=java,cpp,python,html,css,js&theme=light)](https://skillicons.dev)
 # what did I do 
 
+![image](https://upload.wikimedia.org/wikipedia/commons/f/fc/Toothless-dancing-toothless.gif)
+
 ![License](https://img.shields.io/github/license/Ackaraphon1928/yourRepoName)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Ackaraphon1928)
