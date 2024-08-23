@@ -3,7 +3,7 @@
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?
 username=Ackaraphon1928&show_icons=true)
 
-[![My Skills](https://skillicons.dev/icons?i=java,cpp,python,html,css,js,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,cpp,python,html,css,js&theme=light)](https://skillicons.dev)
 
 I'm Ackaraphon Sahawiriya
 
