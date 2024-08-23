@@ -12,7 +12,7 @@ Computer Engineering And Digital Technology Chulalongkorn University
 
 # What is my skills
 
-I have High skills in mathematics and data analysis 
+I have High skills in mathematics and data analysis (Just kidding LOL)
 
 ![imame](https://media.tenor.com/Jsyj18nP2FYAAAAM/confused-math.gif)
 
