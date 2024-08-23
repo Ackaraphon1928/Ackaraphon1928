@@ -42,5 +42,5 @@ I have High skills in mathematics and data analysis (Just kidding LOL)
 
 ![image](https://media.tenor.com/yEG23sxXIVQAAAAM/shrek-shrek-meme.gif)
 
-# My IDOL
+# My TEACHER
 ![image](https://mis.cp.eng.chula.ac.th/view.php?q=instructor/picture&key=10013658)
