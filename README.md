@@ -6,6 +6,7 @@
 I'm Ackaraphon Sahawiriya
 
 Computer Engineering And Digital Technology Chulalongkorn University
+![forthebadge](https://github.com/CEDT-Chula/For-The-Cedt-Badge/blob/main/badges/chula-engineer.svg?raw=true)
 
 # What is my skills
 
@@ -26,7 +27,6 @@ I have High skills in mathematics and data analysis
 
 ![Profile views](https://komarev.com/ghpvc/?username=Ackaraphon)
 
-![image](https://cdn.britannica.com/36/234736-050-4AC5B6D5/Scottish-fold-cat.jpg)
 
-## MY Noob HERE
+## MY Noob Stat HERE
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Ackaraphon1928&show_icons=true)
