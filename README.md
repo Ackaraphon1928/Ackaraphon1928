@@ -2,17 +2,19 @@
 
 ![image](https://stickershop.line-scdn.net/stickershop/v1/product/23701012/LINEStorePC/main.png?v=1)
 
-[![My Skills](https://skillicons.dev/icons?i=java,cpp,python,html,css,js&theme=light)](https://skillicons.dev)
 
 I'm Ackaraphon Sahawiriya
 
-computer engineering Abd Digital Technology Chulalongkorn University
+Computer Engineering And Digital Technology Chulalongkorn University
 
 # What is my skills
 
 I have High skills in mathematics and data analysis 
 
 [MY INTRO VIDEO](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
+
+[![My Skills](https://skillicons.dev/icons?i=java,cpp,python,html,css,js&theme=light)](https://skillicons.dev)
 # what did I do 
 
 ![License](https://img.shields.io/github/license/Ackaraphon1928/yourRepoName)
