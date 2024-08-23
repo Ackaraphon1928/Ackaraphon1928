@@ -1,8 +1,6 @@
 # Who am I?
 
-## MY Noob HERE
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Ackaraphon1928&show_icons=true)
-
+![image](https://stickershop.line-scdn.net/stickershop/v1/product/23701012/LINEStorePC/main.png?v=1)
 
 [![My Skills](https://skillicons.dev/icons?i=java,cpp,python,html,css,js&theme=light)](https://skillicons.dev)
 
@@ -25,3 +23,6 @@ I have High skills in mathematics and data analysis
 ![Profile views](https://komarev.com/ghpvc/?username=Ackaraphon)
 
 ![image](https://cdn.britannica.com/36/234736-050-4AC5B6D5/Scottish-fold-cat.jpg)
+
+## MY Noob HERE
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Ackaraphon1928&show_icons=true)
