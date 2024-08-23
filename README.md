@@ -18,7 +18,7 @@ I have High skills in mathematics and data analysis
 
 # My Coding skills
 
-[![My Skills](https://skillicons.dev/icons?i=java,cpp,python,html,css,kotlin,nodejs,figmajs&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,cpp,python,html,css,kotlin,nodejs,gcp,azure,react,vue,kubernetes,docker,c,flutterfigmajs&theme=light)](https://skillicons.dev)
 
 #### All of these I can print Hello World.
 # what did I do 
