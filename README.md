@@ -16,6 +16,8 @@ I have High skills in mathematics and data analysis
 
 ![imame](https://media.tenor.com/Jsyj18nP2FYAAAAM/confused-math.gif)
 
+
+
 [MY INTRO VIDEO](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 # My Coding skills
