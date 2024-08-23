@@ -4,7 +4,8 @@
 username=Ackaraphon1928&show_icons=true)
 
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
-\nI'm Ackaraphon Sahawiriya
+
+I'm Ackaraphon Sahawiriya
 
 computer engineering Abd Digital Technology Chulalongkorn University
 
