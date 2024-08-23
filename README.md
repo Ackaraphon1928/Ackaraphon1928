@@ -14,6 +14,8 @@ Computer Engineering And Digital Technology Chulalongkorn University
 
 I have High skills in mathematics and data analysis 
 
+![imame](https://media.tenor.com/Jsyj18nP2FYAAAAM/confused-math.gif)
+
 [MY INTRO VIDEO](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 # My Coding skills
@@ -21,11 +23,10 @@ I have High skills in mathematics and data analysis
 [![My Skills](https://skillicons.dev/icons?i=java,cpp,python,html,css,kotlin,nodejs,gcp,azure,react,vue,kubernetes,docker,c,flutterfigmajs&theme=light)](https://skillicons.dev)
 
 #### All of these I can print Hello World.
-# what did I do 
+# What did I do 
 
 ![image](https://upload.wikimedia.org/wikipedia/commons/f/fc/Toothless-dancing-toothless.gif)
 
-![License](https://img.shields.io/github/license/Ackaraphon1928/yourRepoName)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Ackaraphon1928)
 
