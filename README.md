@@ -14,8 +14,11 @@ I have High skills in mathematics and data analysis
 
 [MY INTRO VIDEO](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
+# My Coding skills
 
 [![My Skills](https://skillicons.dev/icons?i=java,cpp,python,html,css,js&theme=light)](https://skillicons.dev)
+
+#### All of these I can print Hello World.
 # what did I do 
 
 ![image](https://upload.wikimedia.org/wikipedia/commons/f/fc/Toothless-dancing-toothless.gif)
