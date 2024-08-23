@@ -12,7 +12,8 @@ computer engineering Abd Digital Technology Chulalongkorn University
 # What is my skills
 
 I have High skills in mathematics and data analysis 
-![]
+
+[MY INTRO VIDEO](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 # what did I do 
 
 ![License](https://img.shields.io/github/license/Ackaraphon1928/yourRepoName)
