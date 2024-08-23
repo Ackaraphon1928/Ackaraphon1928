@@ -15,8 +15,9 @@ I have High skills in mathematics and data analysis
 ![]
 # what did I do 
 
-![License](https://img.shields.io/github/license/yourGitHubUsername/yourRepoName)
+![License](https://img.shields.io/github/license/Ackaraphon1928/yourRepoName)
 
+![trophy](https://github-profile-trophy.vercel.app/?username=Ackaraphon1928)
 
 
 ![image](https://cdn.britannica.com/36/234736-050-4AC5B6D5/Scottish-fold-cat.jpg)
