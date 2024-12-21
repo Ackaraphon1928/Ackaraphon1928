@@ -3,9 +3,9 @@
 ![image](https://stickershop.line-scdn.net/stickershop/v1/product/23701012/LINEStorePC/main.png?v=1)
 
 
-Hi there! I'm Ackaraphon Sahawiriya. You can call me Oat
+Hi there! My name is Ackaraphon Sahawiriya, but you can call me Oat.
 
-Computer Engineering And Digital Technology Chulalongkorn University
+I am studying Computer Engineering and Digital Technology at Chulalongkorn University.
 
 ![forthebadge](https://github.com/CEDT-Chula/For-The-Cedt-Badge/blob/main/badges/chula-engineer.svg?raw=true)
 
@@ -24,11 +24,18 @@ Here, I'll be sharing my journey, projects, and experiments. From data science e
 - Build interesting data science projects.  
 - Collaborate with like-minded individuals.  
 
-Feel free to explore my repositories, provide feedback, or connect with me to share ideas. Let's grow together in this exciting field!  
-# My Coding skills
+Feel free to explore my repositories, provide feedback, or connect with me to share ideas. Let's grow together in this exciting field! 
+
+## 📚 Currently Learning  
+- Python for data science  
+- Machine learning fundamentals  
+# 💻 My Coding skills
 
 [![My Skills](https://skillicons.dev/icons?i=java,cpp,python,html,css,kotlin,nodejs,react,c&theme=light)](https://skillicons.dev)
 
 
-## MY Stat 
+## 📊 MY Stat 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Ackaraphon1928&show_icons=true)
+
+## 📫 How to Reach Me  
+- Email: [ackaraphonsahawiriya@gmail.com](#)  
