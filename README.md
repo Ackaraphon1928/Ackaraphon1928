@@ -20,18 +20,17 @@ I'm passionate about learning and constantly expanding my skill set. My journey 
 Here, I'll be sharing my journey, projects, and experiments. From data science explorations to coding adventures, this space will grow as I learn and create.  
 
 ## 🔭 My Goals  
-- Master Python programming.  
-- Build interesting data science projects.  
-- Collaborate with like-minded individuals.  
+-Just chilling and doing what I love
 
 Feel free to explore my repositories, provide feedback, or connect with me to share ideas. Let's grow together in this exciting field! 
 
 ## 📚 Currently Learning  
 - Python for data science  
-- Machine learning fundamentals  
+- Machine learning fundamentals
+- Advance Mathematics
 # 💻 My Coding skills
 
-[![My Skills](https://skillicons.dev/icons?i=java,cpp,python,html,css,kotlin,nodejs,react,c&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,c,cpp,python,html,css,js,nodejs,react&theme=light)](https://skillicons.dev)
 
 
 ## 📊 MY Stat 
