@@ -27,7 +27,7 @@ Here, I'll be sharing my journey, projects, and experiments. From data science e
 Feel free to explore my repositories, provide feedback, or connect with me to share ideas. Let's grow together in this exciting field!  
 # My Coding skills
 
-[![My Skills](https://skillicons.dev/icons?i=java,cpp,python,html,css,kotlin,nodejs,gcp,azure,react,vue,kubernetes,docker,c,flutterfigmajs&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,cpp,python,html,css,kotlin,nodejs,gcp,azure,react,c&theme=light)](https://skillicons.dev)
 
 #### All of these I can print Hello World.
 # What did I do 
