@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub Profile
 
-![image]((https://gifdb.com/images/high/hacker-dog-hacking-x5lbp7e3aiq5cvno.gif))
+![image]([https://gifdb.com/images/high/hacker-dog-hacking-x5lbp7e3aiq5cvno.gif])
 
 
 Hi there! My name is Ackaraphon Sahawiriya, but you can call me Oat.
