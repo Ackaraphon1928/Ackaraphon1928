@@ -27,25 +27,8 @@ Here, I'll be sharing my journey, projects, and experiments. From data science e
 Feel free to explore my repositories, provide feedback, or connect with me to share ideas. Let's grow together in this exciting field!  
 # My Coding skills
 
-[![My Skills](https://skillicons.dev/icons?i=java,cpp,python,html,css,kotlin,nodejs,gcp,azure,react,c&theme=light)](https://skillicons.dev)
-
-#### All of these I can print Hello World.
-# What did I do 
+[![My Skills](https://skillicons.dev/icons?i=java,cpp,python,html,css,kotlin,nodejs,react,c&theme=light)](https://skillicons.dev)
 
 
-![image](https://upload.wikimedia.org/wikipedia/commons/f/fc/Toothless-dancing-toothless.gif)
-
-
-![trophy](https://github-profile-trophy.vercel.app/?username=Ackaraphon1928)
-
-
-![Profile views](https://komarev.com/ghpvc/?username=Ackaraphon)
-
-
-## MY Noob Stat HERE
+## MY Stat 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Ackaraphon1928&show_icons=true)
-
-![image](https://media.tenor.com/yEG23sxXIVQAAAAM/shrek-shrek-meme.gif)
-
-# My TEACHER
-![image](https://mis.cp.eng.chula.ac.th/view.php?q=instructor/picture&key=10013658)
