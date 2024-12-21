@@ -17,10 +17,10 @@ I'm passionate about learning and constantly expanding my skill set. My journey 
 - 🎯 **Aspiring Data Scientist**: My current focus is on data science, where I aim to predict outcomes, find insights, and contribute to impactful solutions.  
 
 ## 📂 What to Expect  
-Here, I'll be sharing my journey, projects, and experiments. From data science explorations to coding adventures, this space will grow as I learn and create.  
+Here, I'll be sharing my journey, projects, and experiments that I am interest. This space will grow as I learn and create.  
 
 ## 🔭 My Goals  
--Just chilling and doing what I love
+Just chilling and doing what I love
 
 Feel free to explore my repositories, provide feedback, or connect with me to share ideas. Let's grow together in this exciting field! 
 
